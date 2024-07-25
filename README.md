@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm justrals from 🇨🇦<br><br>- 🔭 I’m studying in high school<br>- 📚 I'm currently learning javascript</p>
+<p align="left">I'm justrals from 🇨🇦<br><br>- 🔭 I’m studying in <strong>high school</strong><br>- 📚 I'm currently learning <strong>javascript</strong></p>
 
 ###
 
